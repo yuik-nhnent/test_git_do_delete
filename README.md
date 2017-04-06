@@ -1,0 +1,1 @@
+# test_git_do_delete
